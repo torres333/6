@@ -7,8 +7,8 @@
 		<type>select</type>
 		<title>¿montaña mallorca?</title>
 		<option>tosslas</option>
-		<option>puig major</option>
 		<option>ofre</option>
+		<option>puig major</option>
 		<option>roig</option>
 		<answer>2</answer>
 		<!-- SIN IMPLEMENTAR: DE CARA AL FUTURO
@@ -16,81 +16,81 @@
 	</question>
 	<question id="mlag_002">
 		<type>select</type>
-		<title>¿De qué país son originarios los sombreros de Panamá?</title>
-		<option>Ecuador</option>
-		<option>Panamá</option>
-		<option>España</option>
+		<title>¿jose luis ferrer?</title>
+		<option>binissalem</option>
+		<option>consell</option>
+		<option>alaro</option>
 		<answer>0</answer>
 		<!-- SIN IMPLEMENTAR: DE CARA AL FUTURO
 		<explanation>A pesar del nombre, viene del hecho de que alcanzaron relevancia durante la construcción del Canal de Panamá cuando millares de sombreros fueron importados desde Ecuador para el uso de los trabajadores de la construcción</explanation> -->
 	</question>
 	<question id="mlag_003">
 		<type>text</type>
-		<title>¿Cuántos años duró la guerra de 100 años?</title>
-		<answer>116</answer>
+		<title>¿distancia lluc a peu?</title>
+		<answer>47</answer>
 	</question>
 	<question id="mlag_004">
 		<type>text</type>
-		<title>¿Cuántos países conforman el Reino Unido?</title>
-		<answer>4</answer>
+		<title>¿islas mallorca?</title>
+		<answer>5</answer>
 	</question>
 	<question id="mlag_005">
 		<type>checkbox</type>
-		<title>¿De qué animal/es se obtiene la tripa de gato? (para hacer cuerdas de violines)</title>
-		<option>Oveja</option>
-		<option>Gato</option>
-		<option>Carnero</option>
-		<option>Iguana</option>
-		<option>Perro</option>
+		<title>¿pueblos con puerto</title>
+		<option>soller</option>
+		<option>alaro</option>
+		<option>andratx</option>
+		<option>inca</option>
+		<option>algaida</option>
 		<answer>0</answer>
 		<answer>2</answer>
 	</question>
 	<question id="mlag_006">
 		<type>checkbox</type>
-		<title>¿Cuál es la montaña más alta del mundo?</title>
-		<option>Everest</option>
-		<option>Mauna Kea</option>
-		<option>Chimborazo</option>
-		<option>Puig Major</option>
+		<title>¿Cuál es barriada de palma?</title>
+		<option>son cotoner</option>
+		<option>camp redo</option>
+		<option>santa catalina</option>
+		<option>ses cadenes</option>
 		<answer>0</answer>
 		<answer>1</answer>     
 		<answer>2</answer>
 	</question>
 	<question id="mlag_007">
 		<type>radio</type>
-		<title>¿Cómo se llamaba el rey Jorge VI de Inglaterra?</title>
-		<option>George</option>
-		<option>Albert</option>
-		<option>John</option>
-		<option>Tom</option>
+		<title>¿que mes fiesta sardina valldemossa?</title>
+		<option>enero</option>
+		<option>Agosto</option>
+		<option>mayo</option>
+		<option>julio</option>
 		<answer>1</answer>
 	</question>
 	<question id="mlag_008">
 		<type>radio</type>
-		<title>¿Cuántas parejas de animales metió Noé en su arca?</title>
-		<option>1</option>
-		<option>2</option>
-		<option>5</option>
-		<option>Otro</option>
+		<title>¿que se come binissalem en es vermar?</title>
+		<option>porcella</option>
+		<option>trampo</option>
+		<option>fideus</option>
+		<option>cordero</option>
 		<answer>3</answer>
 	</question>
 	<question id="mlag_009">
 		<type>select multiple</type>
-		<title>¿Dónde está Macadamia?</title>
-		<option>África</option>
-		<option>Asia</option>
-		<option>Europa</option>
-		<option>Ninguna de las anteriores es correcta.</option>
+		<title>¿que hay en el puig de randa?</title>
+		<option>telescopio</option>
+		<option>santo</option>
+		<option>antenas y radar</option>
+		<option>carcel</option>
 		<answer>3</answer>
 	</question>
 	<question id="mlag_010">
 		<type>select multiple</type>
-		<title>Divide 30 por 0.5 y súmale 10. ¿Cuál es el resultado?</title>
-		<option>70</option>
-		<option>25</option>
-		<option>405/10</option>
-		<option>140/2</option>
-		<answer>0</answer>
+		<title>fogueros mas tipicos</title>
+		<option>deia</option>
+		<option>selva</option>
+		<option>manacor</option>
+		<option>sa pobla</option>
+		<answer>2</answer>
 		<answer>3</answer>
 	</question>	
 </questions>
